@@ -1,4 +1,4 @@
-public class Main {
+public class PartyAffiliation {
     public static void main(String[] args) {
 
         String democrat = "donkey";
